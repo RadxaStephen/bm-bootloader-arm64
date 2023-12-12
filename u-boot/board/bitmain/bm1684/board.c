@@ -438,7 +438,7 @@ static void select_board(void)
 		env_set("dtb_name", "bm1684x_sm7m_v0.0_cust_v1.dtb");
 		break;
 	case BM1684X_SM7M_V1_0:
-		env_set("dtb_name", "bm1684x_sm7m_v1.0.dtb");
+		env_set("dtb_name", "bm1684x_radxa_aicore_io.dtb");
 		break;
 	case BM1684X_SM7M_V1_2:
 		env_set("dtb_name", "bm1684x_sm7m_v1.2.dtb");
